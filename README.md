@@ -40,5 +40,8 @@ To design and implement a scalable, parallel solution using MPI, OpenMP, and MET
 
 ---
 
-## 📂 Repository Structure
+## 👨‍💻 Contributors
 
+- Hammad Shabbir  
+- Haider Zia 
+- Muhammad Iqrash Qureshi
