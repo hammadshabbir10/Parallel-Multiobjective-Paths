@@ -49,6 +49,31 @@ To design and implement a **scalable parallel algorithm** using **OpenMP** that 
 
 ---
 
+## Parallelization Strategy
+
+## 1. MPI (Inter-node Communication)
+
+- Could be used for distributing graph partitions (using METIS) across different nodes.
+- Each node can independently update its subgraph’s SSSP tree.
+- After local updates, MPI_Gather or MPI_Allreduce could be used to sync global distances.
+
+## 2. OpenMP (Intra-node Parallelism)
+
+- Already used in shared-memory version (OpenMP).
+- Enables parallel processing of:
+- Edge deletions/insertions
+- Affected vertex updates
+
+Dynamic scheduling in OpenMP helps in load balancing during updates of uneven subtrees.
+
+## 3. METIS (Graph Partitioning)
+
+- Can pre-process large graphs to partition them into smaller subgraphs.
+- Each subgraph can be assigned to a thread (OpenMP) or node (MPI).
+- Reduces cross-node communication and optimizes memory locality.
+
+---
+
 ## 👨‍💻 Contributors
 
 - Hammad Shabbir  
