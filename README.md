@@ -76,15 +76,32 @@ Dynamic scheduling in OpenMP helps in load balancing during updates of uneven su
 
 ![Image](https://github.com/user-attachments/assets/c0644cdc-1f3f-4795-89c9-8d480f60ce13)
 
+
 ![Image](https://github.com/user-attachments/assets/6311abb0-2fff-48ff-9918-f3eddc5ade11)
+
 
 ![Image](https://github.com/user-attachments/assets/8c97e62c-0fea-4c09-863b-c859c0c7facc)
 
+
 ![Image](https://github.com/user-attachments/assets/6ce47c2f-e3a0-468f-ad8e-cee77c8898a5)
+
 
 ![Image](https://github.com/user-attachments/assets/accb118e-1e3b-48e9-b671-059fd78bf23e)
 
+
 ![Image](https://github.com/user-attachments/assets/0fcb7ec6-caae-42e4-bb82-f789b6f78a89)
+
+
+![Image](https://github.com/user-attachments/assets/66e15b41-7aaf-408e-99dd-7d80de0ec23e)
+
+
+![Image](https://github.com/user-attachments/assets/f38dd282-0b41-40eb-8d33-6d4c7cfb95b0)
+
+
+![Image](https://github.com/user-attachments/assets/f518de16-ea10-48ce-b30f-9f727b8a87d8)
+
+
+![Image](https://github.com/user-attachments/assets/4aefca2c-2d5b-4433-93e5-b57625682360)
 
 ## 👨‍💻 Contributors
 
